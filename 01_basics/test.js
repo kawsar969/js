@@ -1,1 +1,1 @@
-console.log('Kawsar Ahmad 969')
+console.log('Kawsar Ahmad')
